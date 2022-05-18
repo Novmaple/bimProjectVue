@@ -1,0 +1,11 @@
+Model Information:
+* title:	BIM - Cosari Romania
+* source:	https://sketchfab.com/3d-models/bim-cosari-romania-ee5fc21a72a94449bc9cebf8a47c09ff
+* author:	AMMServices (https://sketchfab.com/AMMServices)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BIM - Cosari Romania" (https://sketchfab.com/3d-models/bim-cosari-romania-ee5fc21a72a94449bc9cebf8a47c09ff) by AMMServices (https://sketchfab.com/AMMServices) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,67 @@
+newmtl Ciment_Horizontal
+Ka 0.831372549019608 0.831372549019608 0.831372549019608
+Kd 0.831372549019608 0.831372549019608 0.831372549019608
+d 1
+map_Ka Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+map_Kd Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+newmtl Ciment_Flat
+Ka 0.831372549019608 0.831372549019608 0.831372549019608
+Kd 0.831372549019608 0.831372549019608 0.831372549019608
+d 1
+map_Ka Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+map_Kd Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+newmtl Caramida
+Ka 1 0.505882352941176 0.356862745098039
+Kd 1 0.505882352941176 0.356862745098039
+d 0
+map_Ka CMU_Running_200x400_Light_Gray.png
+map_Kd CMU_Running_200x400_Light_Gray.png
+newmtl Ciment_Vertical
+Ka 0.831372549019608 0.831372549019608 0.831372549019608
+Kd 0.831372549019608 0.831372549019608 0.831372549019608
+d 1
+map_Ka Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+map_Kd Concrete.Cast-in-Place.Formwork.Wood.Boards.bump.jpg
+newmtl Scandura_Finisat
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka beechwood_cherry.png
+map_Kd beechwood_cherry.png
+newmtl Acoperis
+Ka 1 0.415686274509804 0.333333333333333
+Kd 1 0.415686274509804 0.333333333333333
+d 1
+map_Ka Thermal_-_Moisture.Roof_Tiles.Spanish.Red.jpg
+map_Kd Thermal_-_Moisture.Roof_Tiles.Spanish.Red.jpg
+newmtl Decorativa
+Ka 0.905882352941176 0.905882352941176 0.894117647058824
+Kd 0.905882352941176 0.905882352941176 0.894117647058824
+d 1
+map_Ka Finishes.Painting.Paint.White.Flaking.jpg
+map_Kd Finishes.Painting.Paint.White.Flaking.jpg
+newmtl OSB
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Autodesk.Wood.Particle_Board.png
+map_Kd Autodesk.Wood.Particle_Board.png
+newmtl Lemn_Finisat
+Ka 0.168627450980392 0.0666666666666667 0
+Kd 0.168627450980392 0.0666666666666667 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Termopan
+Ka 0.149019607843137 0.101960784313725 0.101960784313725
+Kd 0.149019607843137 0.101960784313725 0.101960784313725
+d 1
+newmtl Glass
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 0.5
+newmtl Burlane
+Ka 0.996078431372549 0.337254901960784 0.145098039215686
+Kd 0.996078431372549 0.337254901960784 0.145098039215686
+d 0
+
